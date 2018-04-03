@@ -2,7 +2,7 @@
 layout: page
 title: About Jon
 permalink: /about/
-feature-img: "assets/img/adx.png"
+feature-img: "assets/img/cleb.jpg"
 tags: [about]
 ---
 ### Q & A
