@@ -1,6 +1,6 @@
 ---
 layout: post
-title: question soup? (continued)
+title: Question soup? (continued)
 published: true
 ---
 ### 2/17/18_a - Defining Data Science, 6 weeks later.

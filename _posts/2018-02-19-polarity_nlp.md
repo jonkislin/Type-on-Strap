@@ -1,6 +1,6 @@
 ---
 layout: post
-title: polarity? (brainstorming project Fletcher)
+title: Polarity? (brainstorming project Fletcher)
 published: false
 ---
 ### Pew Research and Polarization
