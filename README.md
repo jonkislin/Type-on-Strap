@@ -1,4 +1,7 @@
-# Type on Strap 
+# Type on Strap  
+https://jonkislin.github.io
+
+Project README, forked from Type-On-Strap:
 
 [![Build Status](https://travis-ci.org/Sylhare/Type-on-Strap.svg?branch=master)](https://travis-ci.org/Sylhare/Type-on-Strap) 
 [![Gem Version](https://badge.fury.io/rb/type-on-strap.svg)](https://badge.fury.io/rb/type-on-strap)
