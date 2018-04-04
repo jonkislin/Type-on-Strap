@@ -24,7 +24,11 @@ researcher. Some of the skills I've picked up along the way include:
 - familiarity with R and RStudio
 - research study administration
 
+<<<<<<< HEAD
 [Click here for a link to my Resume!](http://jonkislin.github.io/assets/resume.pdf)
+=======
+[Click here for a link to my Resume!](assets/resume.pdf)
+>>>>>>> 866d5cb253a1f6507f0d4a38f7c192bd5dccbb50
 
 #### Whose work inspires you?
 Check out these fine folks:  
