@@ -3,7 +3,7 @@ layout: post
 title: Question soup? (continued)
 published: true
 ---
-### 2/17/18_a - Defining Data Science, 6 weeks later.
+### 2/17/18 - Defining Data Science, 6 weeks later.
 The first question in the soup: "What is Data Science?"  Data Science is a notoriously nebulous term, but when asked to describe it quickly, I've since described it to my friends as fundamentally the intersection of three things:
 
   1. Statistics

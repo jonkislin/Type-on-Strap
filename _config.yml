@@ -2,8 +2,8 @@
 
 baseurl: ""
 url: "https://jonkislin.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Jon Kislin # site's title
+description: "Jon's Data Blog" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -11,7 +11,7 @@ theme_settings:
   # Meta
   title: Jon Kislin # blog's title
   avatar: assets/img/jonlinkedin.jpg
-  favicon: assets/favicon.ico
+  favicon: assets/img/jonlinkedin.jpg
   gravatar: # Email MD5 hash
 
   # Header and footer text
