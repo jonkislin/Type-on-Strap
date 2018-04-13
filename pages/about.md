@@ -13,7 +13,7 @@ in New York City.
 #### What do you do?
 Currently on the job hunt! Brushing up on SQL and fleshing out this blog as I go.
 
-#### What can you do?
+#### What _can_ you do?
 I have training as a data scientist, customer service representative, and psychology
 researcher. Some of the skills I've picked up along the way include:
 
@@ -24,7 +24,7 @@ researcher. Some of the skills I've picked up along the way include:
 - familiarity with R and RStudio
 - research study administration
 
-[Click here for a link to my Resume!](http://jonkislin.github.io/assets/resume.pdf)
+[Click here for a link to my Resume!](/assets/resume.pdf)
 
 #### Whose work inspires you?
 Check out these fine folks:  

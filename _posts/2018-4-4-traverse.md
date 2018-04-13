@@ -11,7 +11,7 @@ Final project at Metis Data Science Bootcamp. Blog post in progress.
 
 This project was heavily inspired by Tim Martin's excellent [Promoting Positive Climate Change Discussions on Twitter](https://zeromh.github.io/climate_change_conversations/).
 
-Visualizations made possible by [Andrei Kashcha](https://github.com/anvaka/pm)
+Visualizations made possible by [Andrei Kashcha](https://github.com/anvaka/pm).
 
 <!--more-->
 ### Motivation:
@@ -31,5 +31,5 @@ Some basics to figure out:
 - What query should we use?
 - What constitutes an edge? Nodes will be users.  
 
-  
+
 TO BE CONTINUED
