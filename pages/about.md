@@ -11,7 +11,7 @@ I'm Jon, and I'm a graduate of [Metis](https://www.thisismetis.com)
 in New York City.
 
 #### What do you do?
-Currently on the job hunt! Brushing up on SQL and fleshing out this blog as I go.
+Currently on the job hunt! Brushing up on SQL, javascript, and the nitty gritty of some machine learning topics in the interim.
 
 #### What _can_ you do?
 I have training as a data scientist, customer service representative, and psychology
