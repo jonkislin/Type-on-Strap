@@ -4,8 +4,11 @@ thumbnail: "assets/img/left-right.png"
 feature-img: "assets/img/trump_scc.png"
 title: "Traversing the Trump Twitterverse"
 excerpt_separator: <!--more-->
-published: false
+published: true
 ---
+## Some things I learned from analyzing over 3 million tweets to @realDonaldTrump
+
+
 Final project at Metis Data Science Bootcamp. Blog post in progress.  
 [Click here](https://github.com/jonkislin/traverse) for a link to my project repo.
 
