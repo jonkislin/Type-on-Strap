@@ -5,26 +5,34 @@ permalink: /about/
 feature-img: "assets/img/cleb.jpg"
 tags: [about]
 ---
-### Q & A
-#### What's your name?
-I'm Jon, and I'm a graduate of [Metis](https://www.thisismetis.com)
+#### Hello!
+Hi! I'm Jon, and I'm a graduate of [Metis](https://www.thisismetis.com)
 in New York City.
 
+[My resumé](/assets/resume.pdf)
+
 #### What do you do?
-Currently on the job hunt! Brushing up on SQL, javascript, and the nitty gritty of some machine learning topics in the interim.
+Currently on the job hunt!     
+While I search, I'm brushing up on SQL, javascript, and topics in machine learning
+and Natural Language Processing.
 
 #### What _can_ you do?
 I have training as a data scientist, customer service representative, and psychology
-researcher. Some of the skills I've picked up along the way include:
+researcher.   
+Some of the skills I've picked up along the way include:
 
 - multivariate data analysis and machine learning
-  - linear regression
+  - regression algorithms
   - classification algorithms
+  - natural language processing  
+- presenting findings to mixed audiences (it's not just about pretty slides!)  
 - working proficiency in Python
 - familiarity with R and RStudio
 - research study administration
 
-[Click here for a link to my Resume!](/assets/resume.pdf)
+#### Where do you see yourself in a year?
+In a position where I can learn tremendously from people who've been doing data science
+longer than I have.
 
 #### Whose work inspires you?
 Check out these fine folks:  
