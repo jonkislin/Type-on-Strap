@@ -46,7 +46,18 @@ of my own choosing. I chose the latter (Social Network Analysis - see my post in
 
 Given that the bootcamp is long over, and all the buzz I hear about Deep Learning,
 I decided to dive into the basics. Next week, I hope to start playing around with MNist dataset. But, for this week, here are some videos that, like with the Linear Algebra basics, have brought clarity to something that I've not been able to fully understand:
-
 <br>
+#### Part 1: But what *is* a Neural Network?
 <iframe width="1000" height="380" src="https://www.youtube-nocookie.com/embed/aircAruvnKk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
+
+#### Part 2: Gradient Descent
+<iframe width="1000" height="380" src="https://www.youtube-nocookie.com/embed/IHZwWFHWa-w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+#### Part 3: Backpropagation
+<iframe width="1000" height="380" src="https://www.youtube-nocookie.com/embed/Ilg3gGewQ5U?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
+
+It was actually these videos on Neural Networks that got me thinking about Linear Algebra again.   
+Until next time, thanks for reading!
