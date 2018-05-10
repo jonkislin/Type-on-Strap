@@ -18,7 +18,7 @@ well-paced, and engaging. No surprise, as the creator,
 [Grant Sanderson](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/about),
 worked for [Khan Academy](https://www.khanacademy.org).
 
-#### Linear Algebra basics
+### Linear Algebra basics
 
 I'll make no attempt at hiding it: Linear Algebra hasn't been my strongest area, even
 after the bootcamp, so I've been making an effort to address some gaps in my
@@ -38,8 +38,15 @@ Here's the video (also linked above) on matrices as Linear Transformations:
 <iframe width="1000" height="380" src="https://www.youtube-nocookie.com/embed/kYB8IZa5AuE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
 
-#### Neural Networks
+### Neural Networks
 
 In the final weeks of the data science bootcamp at [Metis](https://thisismetis.com),
 I was given the opportunity to progress with Deep Learning or with a topic and project
-of my own choosing. I chose the latter (Social Network Analysis - see my post in progress on [Traversing the Trump Twitterverse](/2018/05/03/traverse.html)
+of my own choosing. I chose the latter (Social Network Analysis - see my post in progress on [Traversing the Trump Twitterverse](/2018/05/03/traverse.html).
+
+Given that the bootcamp is long over, and all the buzz I hear about Deep Learning,
+I decided to dive into the basics. Next week, I hope to start playing around with MNist dataset. But, for this week, here are some videos that, like with the Linear Algebra basics, have brought clarity to something that I've not been able to fully understand:
+
+<br>
+<iframe width="1000" height="380" src="https://www.youtube-nocookie.com/embed/aircAruvnKk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br>
