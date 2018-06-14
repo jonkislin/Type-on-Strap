@@ -29,6 +29,13 @@ Where would we find them?
 Going into this project, I really wanted to make a visualization that showed ideology-based groupings
 of twitter users, and be able to point out members that stand in between clashing groups. I didn't really
 have a good idea of how to do that - I knew the possibility was there, but I wasn't sure how graph networks worked or how layout-generation algorithms or community detection worked.
+Being able to follow along with Tim's notebooks (see link above) was a godsend, but there were still a few learning curves to climb:
+
+- mongoDB (tweet storage)
+- twitterAPI scripting (tweet collection)
+- Docker, Amazon EC2, and PySpark (modeling 3.5 million tweets would have been infeasible with just a MacBook Pro)
+- SQL (Tim opted for SQL rather than Pandas for most of his Exploratory Data Analysis, and I wanted to brush up, so I stuck with this. Check out https://pgexercises.com for a great collection of SQL practice exercises)
+- basic JavaScript and node package manager (needed this to run my data through Andrei's awesome PM visualization - link also above)
 
 
 ### Tweet collection
@@ -38,16 +45,16 @@ Some basics to figure out:
 - Each user will be a "node" in our graph. What will be the edges between them?
 
 #### Which API to use?
-I had wanted to capture tweets from specific events that might elicit mixed responses from both liberals and conservatives. It would have been great, for example, to see tweets during the immediate time period when James Comey or Rex Tillerson were fired. Unfortunately, access to large quantities of historical tweets is pricey, and third party APIs that seek to bypass twitter's restrictions are sketchy at best. Due to the volume of tweets I wanted (around 1 million), I chose the streaming API and let it run until I got to 3.5 million tweets.
+I had wanted to capture tweets from specific events that might elicit mixed responses from both liberals and conservatives. It would have been great, for example, to see tweets during the immediate time period when James Comey or Rex Tillerson were fired. Unfortunately, access to large quantities of historical tweets is pricey, and third party APIs that seek to bypass twitter's restrictions are sketchy at best. Due to the volume of tweets I wanted (around 1 million), I chose the streaming API and let it run until I got to 3.5 million tweets - about two business weeks of runtime, including some random interruptions.
 
 <!-- (Did I need to focus on events? There are so many what ifs here!) -->
 
 #### Tweet Sample
 First, I toyed with the idea of using two queries - one that would capture people using politically
-meaningful hashtags (map ideology), and one that would capture tweeting about musical artists (political neutral) and see which artists would minimize the path distance between people on other sides of the ideological spectrum. Honestly, that sounds like a good project - if you're interested in bringing people
+meaningful hashtags (map ideology), and one that would capture tweeting about musical artists and see which artists would minimize the path distance between people on other sides of the ideological spectrum. Honestly, that sounds like a good project - if you're interested in bringing people
 together, find the celebrities who have the power to do so. But this isn't the project I ended up doing.
 
-That proved a little too complicated for the time constraints, so I stuck with a simpler idea: let's get as many tweets as we can referencing @realDonaldTrump. For inclusion in our query, all it has to
+That proved a little too complicated for the time constraints, so I stuck with a simpler idea: let's get as many tweets as we can referencing @realDonaldTrump. For inclusion in our query, the tweet would only have to include that 'mention.'
 
 Finally,
 
