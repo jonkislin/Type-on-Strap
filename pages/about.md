@@ -12,12 +12,10 @@ in New York City.
 [My resumé](/assets/resume.pdf)
 
 #### What do you do?
-Currently on the job hunt!     
-While I search, I'm brushing up on SQL, javascript, and topics in machine learning
-and Natural Language Processing.
+As of September 2018, I'll be working as a consultant with Booz Allen Hamilton in Washington, D.C.
 
 #### What _can_ you do?
-I have training as a data scientist, customer service representative, and psychology
+I have training as a data scientist, customer service representative, coffeeshop barista, and psychology
 researcher.   
 Some of the skills I've picked up along the way include:
 
@@ -31,13 +29,12 @@ Some of the skills I've picked up along the way include:
 - research study administration
 
 #### Where do you see yourself in a year?
-In a position where I can learn tremendously from people who've been doing data science
+In a position where I can continue to learn tremendously from people who've been doing data science and analytics
 longer than I have.
 
-#### Whose work inspires you?
-Check out these fine folks:  
-[linda skitka](http://lskitka.people.uic.edu/index.html), [matt motyl](http://motyl.people.uic.edu), [ravi iyer](http://www.polipsych.com/about/),
-[jonathan haidt](http://people.stern.nyu.edu/jhaidt/)   
+#### Five years?
+The same as above, but I'd also love to be an educator of some sort. I've never gotten to flex my teaching muscles,
+and it's something I've always wanted to get into.
 
 #### Anything else?
 I love to eat, sing, and get lost in the woods whenever I can!
