@@ -6,10 +6,8 @@ feature-img: "assets/img/cleb.jpg"
 tags: [about]
 ---
 #### Hello!
-Hi! I'm Jon, and I'm a graduate of [Metis](https://www.thisismetis.com)
-in New York City.
-
-[My resumé](/assets/resume.pdf)
+Hi! I'm Jon.  
+[(resumé)](/assets/resume.pdf)
 
 #### What do you do?
 As of September 2018, I'll be working as a consultant with Booz Allen Hamilton in Washington, D.C.
