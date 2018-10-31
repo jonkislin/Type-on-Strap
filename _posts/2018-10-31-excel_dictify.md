@@ -1,7 +1,10 @@
 ---
-published: false
+layout: post
+title: Tabular Data Auto-Documentation Script
+published: true
 ---
-## Excel Auto-Documentation Script
+
+## Tabular Data Auto-Documentation Script
 
 ```python
 from sys import argv # so command line arguments can be accessed
