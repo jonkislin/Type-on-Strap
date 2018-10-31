@@ -4,6 +4,9 @@ title: Tabular Data Auto-Documentation Script
 published: true
 ---
 
+A simple brute-force python 3.6+ program to generate a data-dictionary spreadsheet from any number of tabular files.  
+Can undoubtedly be improved in many ways (e.g., PEP8 adherence, error handling, user options, defined functions, etc.)  
+
 ```python
 from sys import argv # so command line arguments can be accessed
 from time import sleep # pauses in the program to ease reading
