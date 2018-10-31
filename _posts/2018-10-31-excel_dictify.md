@@ -4,8 +4,6 @@ title: Tabular Data Auto-Documentation Script
 published: true
 ---
 
-## Tabular Data Auto-Documentation Script
-
 ```python
 from sys import argv # so command line arguments can be accessed
 from time import sleep # pauses in the program to ease reading
