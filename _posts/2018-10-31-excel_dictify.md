@@ -54,7 +54,9 @@ writer = pd.ExcelWriter(dict_name + '.xlsx')
 
 # Meat of the script
 for filename in filenames:
+    
     filetype = re.findall(r'(\..*)', filename)[0]
+    sheetname = re.findall(r'(.*)\..*',filename)[0]
 
     # Control Flow
     try:
@@ -100,7 +102,6 @@ for filename in filenames:
                                        'Data Set']]
 
     # Write to file
-    sheetname = re.findall(r'(.*)\..*',filename)[0]
     data_dictionary.to_excel(writer, sheet_name = sheetname, index = False)
 
 writer.save() # saves and closes the dictionary excel file
