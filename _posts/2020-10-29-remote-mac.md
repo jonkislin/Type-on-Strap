@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Pair programming with two macs  
 
